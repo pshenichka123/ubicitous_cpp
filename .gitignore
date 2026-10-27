@@ -1,0 +1,6 @@
+build/
+CMakeUserPresets.json
+docs
+install/
+install-win/
+.DS_Store
